@@ -1,0 +1,61 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    background-color: rgb(255, 208, 0);
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.logo img {
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 600px;
+    height: 200px;
+
+}
+
+.consulta-pok {
+    padding: 15px 15px;
+}
+
+.row {
+    padding: 15px 15px;
+}
+
+.img {
+    padding-top: 40px;
+    text-align: center;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: teal;
+
+}
+
+.table {
+    color: rgb(185, 233, 187);
+    font-size: 20px;
+}
+
+#carta {
+    text-align: center;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: teal;
+    width: 256px;
+    font-size: 19px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#informa {
+    color: rgb(240, 240, 240);
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+    background: rgb(144, 255, 155);
+    background: radial-gradient(circle, rgba(144, 255, 155, 1) 0%, rgba(11, 10, 10, 1) 100%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    margin: 3px;
+}
